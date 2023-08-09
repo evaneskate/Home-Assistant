@@ -1,6 +1,6 @@
 pyscript:
   allow_all_imports: true
-  hass_is_global: true
+  hass_is_global: false
 
 pyscript: !include pyscript/config.yaml
 
